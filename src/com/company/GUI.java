@@ -5,7 +5,7 @@ import javax.swing.*;
 /**
  * Created by Lanndon on 7/7/2016.
  */
-public class GUI extends JFramerame  {
+public class GUI extends JFrame  {
     //GUI for the program
 
 
